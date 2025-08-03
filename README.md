@@ -13,9 +13,8 @@ VG Plus Blocker automatically hides subscription articles marked with VG+ on vg.
 ## Installation
 
 ### From Firefox Add-ons (Recommended)
-1. Visit [Firefox Add-ons](https://addons.mozilla.org) 
-2. Search for "VG Plus Blocker"
-3. Click "Add to Firefox"
+1. Visit the [VG Plus Blocker addon page](https://addons.mozilla.org/en-US/firefox/addon/vg-plus-blocker/)
+2. Click "Add to Firefox"
 
 ### Manual Installation (Development)
 1. Open Firefox
